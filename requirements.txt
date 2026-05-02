@@ -1,0 +1,11 @@
+torch
+torchvision
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+grad-cam
+python-dotenv
